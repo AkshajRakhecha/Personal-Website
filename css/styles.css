@@ -1,6 +1,5 @@
 a{
     color: #645CBB;
-    margin: 10px 20px;
     font-family: 'Montserrat', sans-serif;
     text-decoration: none;
 }
@@ -32,6 +31,9 @@ h3{
 }
 p{
     line-height: 2;
+}
+.footer-link{
+    margin: 10px 20px;
 }
 .top-container{
     background-color: #E5E0FF;
